@@ -66,16 +66,16 @@ The results of this comprehensive analysis revealed a clear superiority of off-s
 The recommendation stemming from this analysis is for Microsoft to prioritize off-screen crew over on-screen crew. Specifically, emphasis is placed on making the director the most crucial hire. This strategic guidance is intended to help Microsoft prioritize the most influential cast members, thereby improving the chances of creating a successful movie. By understanding the significant impact of off-screen roles, particularly the director, Microsoft can optimize their hiring decisions and enhance the overall quality and success potential of their movie projects.
 
 
-## Repository structure
+## Repository Contents
 
-* Dataset: folder containing the zipped im.db and csv data files
+* `Dataset`: folder containing the zipped im.db and csv data files
 
-* PhaseOneProject.ipynb: project notebook containing all data imports, cleanup, analyses, and visualizations
+* `PhaseOneProject.ipynb`: project notebook containing all data imports, cleanup, analyses, and visualizations
 
-* PhaseOneProject.pdf: PDF version of the notebook
+* `PhaseOneProject.pdf`: PDF version of the notebook
 
-* presentation.key: the original presentation created with the application Keynote, meant for live use
+* `presentation.key:` the original presentation created with the application Keynote, meant for live use
 
-* presentation.pdf: a PDF version of my presentation for this project
+* `presentation.pdf`: a PDF version of my presentation for this project
 
-* visualizations: a folder with all relevant visualizations from the notebook
+* `visualizations`: a folder with all relevant visualizations from the notebook
