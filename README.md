@@ -78,4 +78,4 @@ The recommendation stemming from this analysis is for Microsoft to prioritize of
 
 * `presentation.pdf`: a PDF version of my presentation for this project
 
-* `visualizations`: a folder with all relevant visualizations from the notebook
+* `Images`: a folder with all relevant visualizations from the notebook
