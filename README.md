@@ -1,6 +1,6 @@
-## DTSPhase 1 Project
+## DTS Phase 1 Project
 
-*Author:** [Wallace Ouma](https://medium.com/@kkalawi10)
+**Author:** [Wallace Ouma](https://medium.com/@kkalawi10)
 ***
 ## Business Understanding
 
@@ -68,9 +68,14 @@ The recommendation stemming from this analysis is for Microsoft to prioritize of
 
 ## Repository structure
 
-Dataset: folder containing the zipped im.db and csv data files
-PhaseOneProject.ipynb: project notebook containing all data imports, cleanup, analyses, and visualizations
-PhaseOneProject.pdf: PDF version of my notebook
-presentation.key: the original presentation created with the application Keynote, meant for live use
-presentation.pdf: a PDF version of my presentation for this project
-visualizations: a folder with all relevant visualizations from the notebook
+* Dataset: folder containing the zipped im.db and csv data files
+
+* PhaseOneProject.ipynb: project notebook containing all data imports, cleanup, analyses, and visualizations
+
+* PhaseOneProject.pdf: PDF version of the notebook
+
+* presentation.key: the original presentation created with the application Keynote, meant for live use
+
+* presentation.pdf: a PDF version of my presentation for this project
+
+* visualizations: a folder with all relevant visualizations from the notebook
