@@ -1,6 +1,6 @@
 ## DTS Phase 1 Project
 
-**Author:** [Wallace Ouma](https://medium.com/@kkalawi10)
+**Author:** [Wallace Ouma](https://github.com/WKalawi)
 ***
 ## Business Understanding
 
