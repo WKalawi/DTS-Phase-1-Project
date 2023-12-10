@@ -74,8 +74,8 @@ The recommendation stemming from this analysis is for Microsoft to prioritize of
 
 * `PhaseOneProject.pdf`: PDF version of the notebook
 
-* [`Presentation.png:`](https://create.piktochart.com/output/1006b4dc2f23-microsoft-movie-project) the original presentation created with the application Keynote, meant for live use
+* [`Presentation.png:`](https://create.piktochart.com/output/1006b4dc2f23-microsoft-movie-project) the original presentation created with the application Piktochart, meant for live use
 
-* `Presentation.pdf`: a PDF version of my presentation for this project
+* `Presentation.pdf`: a PDF version of the presentation for this project
 
 * `Images`: a folder with all relevant visualizations from the notebook
