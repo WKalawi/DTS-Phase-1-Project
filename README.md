@@ -10,7 +10,7 @@ This study sought to guide Microsoft's possible foray into original video conten
 
 **Business Problem**
 
-Microsoft's new film studio, lacking competence in filmmaking, needs guidance about the most advantageous film genres for achieving maximum box office success. This investigation seeks to affect the studio's film choices by analyzing past box office statistics and examining genre patterns. Key metrics such as box office sales, return on investment (ROI), and ratings will assess the financial feasibility and audience response across various film genres.
+Microsoft's new film studio, lacking competence in filmmaking, needs guidance about the most advantageous film genres for achieving maximum box office success. This investigation seeks to affect the studio's film choices by analyzing past box office statistics and examining genre patterns.
 
 **Areas of Focus**
 The primary emphasis was on providing guidance for the choice of genre, budgets channels, and the selection of cast and crew members. The success was measuered through two key metrics: ROI (return on investment), calculated by dividing the movie's total gross by its budget, and the overall profitability of the movie. While these success indicators are closely associated, they are not entirely synonymous.
